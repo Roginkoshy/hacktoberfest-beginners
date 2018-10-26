@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+#### Name: [Rogin Koshy](https://github.com/Roginkoshy)
+ - Place: Surat, Gujarat, India
+ - Bio: Competitive coder and web development enthusiast.
+ - Github: [Roginkoshy](https://github.com/Roginkoshy)
